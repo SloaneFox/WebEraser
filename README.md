@@ -29,7 +29,7 @@ To access this script's options: ctrl-click anywhere, you should see a small pop
 
 ### Installing on Browser without TamperMonkey/GreaseMonkey
 
-Save this script by clicking the right mouse button upon the "install" button at the top of this page and choose "Save link as...".  Then drag and drop the downloaded script from a file manager onto chrome's "extensions" page. Chrome's extensions page is accessible from the Chrome menu "More tools->Extensions.", also switch the top right "Developer mode" button to the "on" position and reload the page before drag-drop operation.
+Save this script by clicking the right mouse button upon the link mentioned above .../WebEraser.user.js, then choose "Save link as...".  Then drag and drop the saved link from a file manager onto chrome's "extensions" page. Chrome's extensions page is accessible from the Chrome menu "More tools->Extensions.", also switch the top right "Developer mode" button to the "on" position and reload the page before drag-drop operation.
 
 The script's menu is then accessible from any webpage in Chrome via the small 'Monkey' icon at the top right of any page.
 
