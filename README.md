@@ -1,5 +1,7 @@
 # WebEraser
 Erase parts of webpages.
+
+###
 Below you will find two screenshots of a typical website that uses banner ads.
 
 The first screenshot shows the page after using this script to erase the ad.  
