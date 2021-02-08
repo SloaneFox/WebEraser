@@ -12,6 +12,14 @@ Runs on Firefox and on Google Chrome browsers as of Nov 2017.
 Sept 2020: Moving to the use of TamperMonkey, however, for now it still works under GreaseMonkey.  
 An extra Export/Import function has been added to allow moving between browsers.  
 Firefox was crashing in GreaseMonkey during script editing and appears to have been left without recent updates.
+### How to install
+
+Firstly install into you browser TamperMonkey or GreaseMonkey userscript manager.  You can find these as the chrome web store
+or in firefox extensions website.
+
+Secondly install this script by clicking on the file https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
+This file can be found above in github, choose to view "raw".  The userscript manager automaticall spots the '.user.js' extension
+and will install the js file.
 
 ### How To Use
 After installing this script clicking on any advert/image/text etc., whilst holding down the "Ctrl" key, erases it by drawing curtains over it.  Upon revisiting the page at another time, the advert/image etc. will still be erased.  A double Click on an erased (curtained) space temporarily reveals that which was erased.
