@@ -14,7 +14,7 @@ Sept 2020: Moving to the use of TamperMonkey.
 
 Firstly, install into your browser an extension called 'TamperMonkey', or one called 'GreaseMonkey', these are userscript managers.  You can find the extension at the chrome web store: https://chrome.google.com/webstore/category/extensions, or at a firefox extensions website.
 
-Secondly, install this script by clicking on the link https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
+Secondly, install this script by clicking on the link: https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
 This js file can also be found above on this page, choose to view "raw".  The userscript manager automatically spots the '.user.js' extension and will install the js file.
 
 ### How To Use
