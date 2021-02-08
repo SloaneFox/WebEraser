@@ -2,27 +2,24 @@
 Erase parts of webpages.
 
 ###
-Below you will find two screenshots of a typical website that uses banner ads.
+Below, at the end, you will find two screenshots of a typical website that uses banner ads.
 
 The first screenshot shows the page after using this script to erase the ad.  
 The second screenshot shows the page as it normally appears without using this script.
 
 Runs on Firefox and on Google Chrome browsers as of Nov 2017. 
+Sept 2020: Moving to the use of TamperMonkey.
 
-Sept 2020: Moving to the use of TamperMonkey, however, for now it still works under GreaseMonkey.  
-An extra Export/Import function has been added to allow moving between browsers.  
-Firefox was crashing in GreaseMonkey during script editing and appears to have been left without recent updates.
 ### How to install
 
-Firstly install into you browser TamperMonkey or GreaseMonkey userscript manager.  You can find these as the chrome web store
-or in firefox extensions website.
+Firstly, install into your browser an extension called 'TamperMonkey', or one called 'GreaseMonkey', these are userscript managers.  You can find the extension at the chrome web store: https://chrome.google.com/webstore/category/extensions, or at a firefox extensions website.
 
-Secondly install this script by clicking on the file https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
+Secondly, install this script by clicking on the file https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
 This file can be found above in github, choose to view "raw".  The userscript manager automaticall spots the '.user.js' extension
 and will install the js file.
 
 ### How To Use
-After installing this script clicking on any advert/image/text etc., whilst holding down the "Ctrl" key, erases it by drawing curtains over it.  Upon revisiting the page at another time, the advert/image etc. will still be erased.  A double Click on an erased (curtained) space temporarily reveals that which was erased.
+After installing this script clicking on a browser webpage, on any advert/image/text etc., whilst holding down the "Ctrl" key, erases it by drawing curtains over it.  Upon revisiting the page at another time, the advert/image etc. will still be erased.  A double Click on an erased (curtained) space temporarily reveals that which was erased.
 
 If clicking on the item tends to cause other effects such as opening a new tab or visiting another page, the the 
 special mennu option "Erase via mouse hover" can be invoked without having to click on the item.
